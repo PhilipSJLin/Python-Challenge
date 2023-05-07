@@ -34,3 +34,5 @@ The total number of votes each candidate won
 The winner of the election based on popular vote
 
 **The outputfiles are in their respective folders alongside an export file**
+
+In this assignment, I receieved assistance through looking at previous activities, stackoverflow, and received some support through my partner who works in the data analyst field.
